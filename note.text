@@ -1,6 +1,9 @@
-module 29
+module 30
 
-video: 4 done
+video: 0 done
 
+start video : 1
 
-start video : 5
+9:22 second
+
+create a navicagion bar using shadcn for nextjs. it will have a logo text some nav links and a user dropdown with some options. keep th nav items in an array to keep thinks organized.
